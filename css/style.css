@@ -1,0 +1,10 @@
+
+body{
+    background-color: azure;
+}
+input[type=submit]
+ {background-color: chocolate;}
+
+ input[type=fullname]{background-color: black;}
+
+ input[type=contact]{background-color: bisque;}
