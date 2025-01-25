@@ -4,7 +4,7 @@ body{
 }
 input[type=submit]
  {background-color: chocolate;}
+#fullname{background-color: aqua;}
 
- input[type=fullname]{background-color: black;}
-
- input[type=contact]{background-color: bisque;}
+#text{background-color: black;}
+#text1{background-color: brown;}

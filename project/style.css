@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+nav{
+    height: 20vh;
+    width: 100%;
+    background-color: aqua;
+}
+
+#left{
+   
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+#right{
+    
+    float: left;
+    margin-top: 20px;
+    margin-left: 150px;
+   
+}
+
+#right ul li{
+
+    float: left;
+    display: block;
+    margin-top: 10px;
+    margin-left: 20px;
+   
+    
+    
+}
+
+nav img{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
