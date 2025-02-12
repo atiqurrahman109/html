@@ -36,6 +36,15 @@ ul li {
     margin: 0px 0px 20px 60px;
     list-style: none;
 }
-
+#content{
+    height:70vh;
+    width: auto;
+    background-color: chocolate;
+}
 
 /* baki ase iframe */
+
+iframe{
+    display: block;
+    height: inherit;
+}

@@ -1,0 +1,30 @@
+#jee {
+
+    height: 15vh;
+    width: auto;
+    background-color: aqua;
+
+
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#content {
+    text-align: justify;
+    height: 80vh;
+    width: 20%;
+    background-color: blue;
+}
+
+iframe {
+    display: block;
+    height: 80vh;
+}
+
+footer {
+    text-align: center;
+    padding-top: auto;
+}

@@ -1,4 +1,23 @@
 
+<<<<<<< HEAD
+
+body{background-color: coral;}
+
+.fd{background-color: aquamarine;}
+
+#cell{background-color: rgb(12, 13, 13);}
+
+#pass{background-color: blueviolet;}
+
+#select{background-color: chartreuse;}
+
+#subject{background-color: chocolate;}
+
+#dob{background-color: crimson;}
+
+#textarea{background-color: darkgoldenrod;}
+
+=======
 body{
     background-color: azure;
 }
@@ -8,3 +27,4 @@ input[type=submit]
 
 #text{background-color: black;}
 #text1{background-color: brown;}
+>>>>>>> 7a5f417976fd7754f8b2358b7d431da0a5e00289
